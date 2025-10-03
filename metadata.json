@@ -1,0 +1,5 @@
+{
+  "name": "Aegis-Core C2 Dashboard",
+  "description": "A proof-of-concept, modular surveillance framework dashboard for authorized penetration testing and red team operations. This UI provides a command and control interface for managing implants, tasking modules, and viewing exfiltrated data.",
+  "requestFramePermissions": []
+}
